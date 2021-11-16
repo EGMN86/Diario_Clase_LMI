@@ -1,3 +1,5 @@
 $ git inti
 $ git config --global user.name xxxx
 $ git config --global user.email xxxxx
+
+$ git clone https://github.com/EG

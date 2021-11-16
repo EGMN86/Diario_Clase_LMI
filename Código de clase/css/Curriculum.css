@@ -1,0 +1,65 @@
+body { 
+background-color: rgb(236, 240, 29);
+}
+.importancia {
+font-style:oblique;}
+H1 {
+font-family: 'Comic Neue', cursive;    
+text-shadow: 5px 5px 5px rgb(231, 233, 235);
+}
+h2 {
+font-family: 'Quicksand', sans-serif;
+}
+#datos {
+background-color: rgb(54, 54, 184);
+border: inset 5px white;   
+color: antiquewhite;
+font-family: 'Quicksand', sans-serif;
+font-weight: bold;
+}
+#exlab {
+background-color: rgb(54, 54, 184);
+border: inset 5px white;    
+color: aliceblue;
+font-family: 'Quicksand', sans-serif;
+font-weight: bold;
+}
+#edu {
+background-color: rgb(54, 54, 184);
+border: inset 5px white; 
+color: aliceblue;   
+font-family: 'Quicksand', sans-serif;
+font-weight: bold;
+}
+#cap {
+background-color: rgb(54, 54, 184);
+border: inset 5px white; font-weight: bold;  
+font-family: 'Quicksand', sans-serif;
+color: cornsilk;  
+}
+#cap2 {
+background-color: rgb(54, 54, 184);
+border: inset 5px white; font-weight: bold;  
+color: cornsilk;   
+font-family: 'Quicksand', sans-serif;
+}
+#cap3 {
+background-color: rgb(54, 54, 184);
+border: inset 5px white; font-weight: bold;  
+color: cornsilk;
+font-family: 'Quicksand', sans-serif;}
+#info {
+background-color: rgb(54, 54, 184);
+border: inset 5px white; font-weight: bold;  
+color: cornsilk;  
+font-family: 'Quicksand', sans-serif;
+}  
+a:link {
+background-color: rgb(255, 157, 127);
+color: rgb(0, 0, 0);
+}
+a:hover {
+background-color: blueviolet;
+color: rgb(0, 0, 0);
+
+}
